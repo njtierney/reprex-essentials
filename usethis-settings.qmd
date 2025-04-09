@@ -1,0 +1,17 @@
+# Setting yourself up with `reprex`
+
+- install usethis
+- install devtools
+- `edit_r_profile()`
+
+```r
+# reprex option
+options(
+  # set SI to true
+  reprex.session_info = TRUE
+)
+```
+
+- set up keyboard shortcut
+  - tools > modify keyboard shortcuts
+    - Cmd + Shift + R
