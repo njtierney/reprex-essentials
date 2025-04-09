@@ -22,3 +22,5 @@ Imports:
     spelling,
     tidyverse,
     visdat
+URL: https://github.com/njtierney/reprex-essentials
+BugReports: https://github.com/njtierney/reprex-essentials/issues
